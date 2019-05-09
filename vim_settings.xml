@@ -14,15 +14,30 @@
         <mark key="." line="40" column="27" />
         <mark key="^" line="40" column="27" />
       </file>
-      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/streams.dart" timestamp="1557377454198">
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/enums/download_source.dart" timestamp="1557377903517">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/streams.dart" timestamp="1557378170806">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="42" column="17" />
-        <mark key="]" line="42" column="22" />
-        <mark key="." line="42" column="22" />
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="37" column="27" />
+        <mark key="." line="37" column="27" />
         <mark key="^" line="42" column="22" />
       </file>
-      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/download_controller.dart" timestamp="1557377569728">
-        <mark key="'" line="20" column="49" />
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/add_controller.dart" timestamp="1557378364558">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/download_controller.dart" timestamp="1557378693092">
+        <mark key="'" line="8" column="10" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="52" />
+        <mark key="." line="4" column="49" />
+        <mark key="^" line="4" column="49" />
       </file>
       <file name="/Volumes/d/dev/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/youtube_extractor-1.0.2/lib/src/models/media_streams/muxed_stream_info.dart" timestamp="1557374851434">
         <mark key="'" line="11" column="13" />
@@ -30,16 +45,23 @@
         <mark key="]" line="25" column="1" />
         <mark key="." line="25" column="1" />
       </file>
-      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/data/video_downloader.dart" timestamp="1557377717172">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/data/video_downloader.dart" timestamp="1557378164726">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
-      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/data/youtube_video_downloader.dart" timestamp="1557374638185">
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/data/youtube_video_downloader.dart" timestamp="1557378741966">
         <mark key="'" line="20" column="32" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="46" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/widgets/video_item.dart" timestamp="1557378188989">
+        <mark key="'" line="67" column="10" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="52" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/Volumes/d/dev/flutter/offtube/ytdl/lib/downloader.dart" timestamp="1557375556281">
         <mark key="'" line="23" column="51" />
@@ -48,11 +70,12 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="31" column="100" />
       </file>
-      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/videos_controller.dart" timestamp="1557377162509">
-        <mark key="[" line="30" column="14" />
-        <mark key="]" line="30" column="14" />
-        <mark key="." line="30" column="14" />
-        <mark key="^" line="20" column="6" />
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/videos_controller.dart" timestamp="1557378314347">
+        <mark key="'" line="70" column="7" />
+        <mark key="[" line="70" column="42" />
+        <mark key="]" line="71" column="50" />
+        <mark key="." line="71" column="50" />
+        <mark key="^" line="71" column="50" />
       </file>
       <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/video.dart" timestamp="1557375891518">
         <mark key="[" line="22" column="16" />
@@ -70,6 +93,12 @@
         <mark key="]" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/add_video_controller.dart" timestamp="1557378758118">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+        <mark key="^" line="13" column="49" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="17" column="31" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/data/youtube_video_downloader.dart" />
@@ -84,69 +113,75 @@
       <jump line="23" column="51" filename="/Volumes/d/dev/flutter/offtube/ytdl/lib/downloader.dart" />
       <jump line="44" column="0" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/streams.dart" />
       <jump line="43" column="0" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/streams.dart" />
-      <jump line="38" column="7" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/streams.dart" />
       <jump line="20" column="49" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/download_controller.dart" />
+      <jump line="0" column="0" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/enums/download_source.dart" />
+      <jump line="66" column="10" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/widgets/video_item.dart" />
+      <jump line="38" column="27" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/streams.dart" />
+      <jump line="70" column="7" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/videos_controller.dart" />
+      <jump line="8" column="10" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/download_controller.dart" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">TGlzdDxWaWRlbz4=</text>
+        <text>ytdl.Vid</text>
       </register>
       <register name="/" type="4">
-        <text>videos</text>
+        <text encoding="base64">XDxfdXBkYXRlVmlkZW9zXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgVmlkZW9zT2JzZXJ2YWJsZSB7CiAgc3RhdGljIE9ic2VydmFibGU8TGlzdDxWaWRlbz4+IG9mKEJ1aWxkQ29udGV4dCBjb250ZXh0KSA9PgogICAgICBTdHJlYW1zUHJvdmlkZXIub2YoY29udGV4dCkudmlkZW9zT2JzZXJ2YWJsZTsKfQoKY2xhc3MgVmlkZW9zU3ViamVjdCB7CiAgc3RhdGljIFN1YmplY3Q8TGlzdDxWaWRlbz4+IG9mKEJ1aWxkQ29udGV4dCBjb250ZXh0KSA9PgogICAgICBTdHJlYW1zUHJvdmlkZXIub2YoY29udGV4dCkudmlkZW9zU3ViamVjdDsKfQo=</text>
+      <register name="0" type="4">
+        <text>ytdl.YoutubeDownloader</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZW51bSBEb3dubG9hZFNvdXJjZSB7IFlvdXR1YmUgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBTdWJqZWN0PFN0cmluZz4gZ2V0IGFkZFZpZGVvU3ViamVjdCA9PiBfYWRkVmlkZW9TdHJlYW07CiAgT2JzZXJ2YWJsZTxTdHJpbmc+IGdldCBhZGRWaWRlb09ic2VydmFibGUgPT4gX2FkZFZpZGVvU3RyZWFtOwoK</text>
+        <text encoding="base64">ICBmaW5hbCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2luaXQoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZW51bSBEb3dubG9hZFNvdXJjZSB7IFlvdXR1YmUgfQoK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF92aWRlbwo=</text>
+        <text encoding="base64">ICBTdWJqZWN0PFN0cmluZz4gZ2V0IGFkZFZpZGVvU3ViamVjdCA9PiBfYWRkVmlkZW9TdHJlYW07CiAgT2JzZXJ2YWJsZTxTdHJpbmc+IGdldCBhZGRWaWRlb09ic2VydmFibGUgPT4gX2FkZFZpZGVvU3RyZWFtOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMuX2luaXQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmaW5hbCBkaXJlY3RvcnkgPSAnL3RtcCc7CiAgZmluYWwgZmlsZVBhdGggPSAnJHtkaXJlY3Rvcnl9LyR7ZG93bmxvYWRhYmxlLmlkfS5tcDQnOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3ZpZGVvcy9hZGRWaWRlby9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>videos</last-search>
-      <last-pattern>videos</last-pattern>
+      <last-search encoding="base64">XDxfdXBkYXRlVmlkZW9zXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxfdXBkYXRlVmlkZW9zXD4=</last-pattern>
       <last-replace>addVideo</last-replace>
       <last-substitute>videos</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>Videos</entry>
         <entry>videos</entry>
+        <entry encoding="base64">XDxfdXBkYXRlVmlkZW9zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>NERDTreeToggle</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL1ZpZGVvcy9BZGRWaWRlby9n</entry>
         <entry encoding="base64">JzwsJz5zL3ZpZGVvcy9hZGRWaWRlby9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
