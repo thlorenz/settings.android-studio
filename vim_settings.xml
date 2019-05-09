@@ -21,11 +21,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/video.dart" timestamp="1557374366150">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="15" column="38" />
-        <mark key="." line="17" column="0" />
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/video.dart" timestamp="1557375891518">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="23" />
       </file>
       <file name="/Volumes/d/dev/flutter/offtube/ytdl/main.dart" timestamp="1557375593981">
         <mark key="[" line="14" column="0" />
@@ -88,7 +88,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>downloadable.streamUrl</text>
       </register>
     </registers>
     <search>
