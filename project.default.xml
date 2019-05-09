@@ -1,0 +1,11 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+        <property name="settings.editor.selected.configurable" value="preferences.updates" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
