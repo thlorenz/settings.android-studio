@@ -9,12 +9,17 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Volumes/d/dev/flutter/offtube/ytdl/lib/downloader.dart" timestamp="1557374940944">
-        <mark key="'" line="38" column="10" />
-        <mark key="[" line="32" column="74" />
-        <mark key="]" line="32" column="74" />
-        <mark key="." line="32" column="74" />
-        <mark key="^" line="32" column="74" />
+      <file name="/Volumes/d/dev/flutter/offtube/ytdl/lib/downloader.dart" timestamp="1557375556281">
+        <mark key="'" line="23" column="51" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="31" column="100" />
+      </file>
+      <file name="/Volumes/d/dev/flutter/offtube/ytdl/pubspec.yaml" timestamp="1557375473571">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/video.dart" timestamp="1557374366150">
         <mark key="[" line="17" column="0" />
@@ -22,11 +27,21 @@
         <mark key="^" line="15" column="38" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="/Volumes/d/dev/flutter/offtube/ytdl/main.dart" timestamp="1557375593981">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="/Volumes/d/dev/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/youtube_extractor-1.0.2/lib/src/models/media_streams/muxed_stream_info.dart" timestamp="1557374851434">
         <mark key="'" line="11" column="13" />
         <mark key="[" line="25" column="1" />
         <mark key="]" line="25" column="1" />
         <mark key="." line="25" column="1" />
+      </file>
+      <file name="/Volumes/d/dev/flutter/offtube/ytdl/lib/ytdl.dart" timestamp="1557375260810">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
       </file>
     </filemarks>
     <jumps>
@@ -38,34 +53,42 @@
       <jump line="1" column="5" filename="/Volumes/d/dev/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/youtube_extractor-1.0.2/lib/src/models/media_streams/video_encoding.dart" />
       <jump line="39" column="10" filename="/Volumes/d/dev/flutter/offtube/ytdl/lib/downloader.dart" />
       <jump line="7" column="0" filename="/Volumes/d/dev/flutter/offtube/ytdl/lib/downloader.dart" />
+      <jump line="70" column="0" filename="/Volumes/d/dev/flutter/offtube/ytdl/lib/downloader.dart" />
+      <jump line="23" column="51" filename="/Volumes/d/dev/flutter/offtube/ytdl/lib/downloader.dart" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnV1aWQvdXVpZC5kYXJ0JyBhcyB1dWlkOwo=</text>
+        <text encoding="base64">ICBmaW5hbCBkaXJlY3RvcnkgPSAnL3RtcCc7CiAgZmluYWwgZmlsZVBhdGggPSAnJHtkaXJlY3Rvcnl9LyR7ZG93bmxvYWRhYmxlLmlkfS5tcDQnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZmluYWwgZG93bmxvYWRhYmxlID0gYXdhaXQgeXRkbC5Zb3V0dWJlRG93bmxvYWRlcihyZXF1ZXN0LikK</text>
+        <text encoding="base64">ICBwcmludChkb3dubG9hZGFibGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBzZXQgZG93bmxvYWRVUkwgKHVybDogc3RyaW5nKSA9PiB0aGlzLmRvd25sb2FkVVJMID0gdXJsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBTdHJpbmcgZ2V0IGRvd25sb2FkVVJMID0+IF9kb3dubG9hZFVSTDsKCiAgc2V0IGRvd25sb2FkVVJMKFN0cmluZyB2YWx1ZSkgewogICAgX2Rvd25sb2FkVVJMID0gdmFsdWU7CiAgfQoK</text>
+        <text encoding="base64">ICBTdHJpbmcgZ2V0IHN0cmVhbVVybCA9PiBfc3RyZWFtVXJsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBzZXQgZG93bmxvYWRVUkwgKEByZXF1aXJlZCB2YWx1ZTogc3RyaW5nKSA9PiB0aGlzLmRvd25sb2FkVVJMID0gdmFsdWUK</text>
+        <text encoding="base64">ICBTdHJpbmcgZ2V0IGlkID0+IF9pZDsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICB1dWlkOiBeMi4wLjAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>uuid.Uuid().v4();</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -75,6 +98,8 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>NERDTreeToggle</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
