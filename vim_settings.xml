@@ -3,6 +3,38 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/d/dev/flutter/offtube/ytdl/pubspec.yaml" timestamp="1557375473571">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/streams_provider.dart" timestamp="1557377318546">
+        <mark key="[" line="39" column="36" />
+        <mark key="]" line="40" column="27" />
+        <mark key="." line="40" column="27" />
+        <mark key="^" line="40" column="27" />
+      </file>
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/streams.dart" timestamp="1557377454198">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="42" column="22" />
+        <mark key="." line="42" column="22" />
+        <mark key="^" line="42" column="22" />
+      </file>
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/download_controller.dart" timestamp="1557377569728">
+        <mark key="'" line="20" column="49" />
+      </file>
+      <file name="/Volumes/d/dev/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/youtube_extractor-1.0.2/lib/src/models/media_streams/muxed_stream_info.dart" timestamp="1557374851434">
+        <mark key="'" line="11" column="13" />
+        <mark key="[" line="25" column="1" />
+        <mark key="]" line="25" column="1" />
+        <mark key="." line="25" column="1" />
+      </file>
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/data/video_downloader.dart" timestamp="1557377717172">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/data/youtube_video_downloader.dart" timestamp="1557374638185">
         <mark key="'" line="20" column="32" />
         <mark key="[" line="20" column="0" />
@@ -16,10 +48,11 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="31" column="100" />
       </file>
-      <file name="/Volumes/d/dev/flutter/offtube/ytdl/pubspec.yaml" timestamp="1557375473571">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/videos_controller.dart" timestamp="1557377162509">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="14" />
+        <mark key="." line="30" column="14" />
+        <mark key="^" line="20" column="6" />
       </file>
       <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/video.dart" timestamp="1557375891518">
         <mark key="[" line="22" column="16" />
@@ -31,12 +64,6 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="/Volumes/d/dev/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/youtube_extractor-1.0.2/lib/src/models/media_streams/muxed_stream_info.dart" timestamp="1557374851434">
-        <mark key="'" line="11" column="13" />
-        <mark key="[" line="25" column="1" />
-        <mark key="]" line="25" column="1" />
-        <mark key="." line="25" column="1" />
       </file>
       <file name="/Volumes/d/dev/flutter/offtube/ytdl/lib/ytdl.dart" timestamp="1557375260810">
         <mark key="[" line="1" column="27" />
@@ -55,52 +82,71 @@
       <jump line="7" column="0" filename="/Volumes/d/dev/flutter/offtube/ytdl/lib/downloader.dart" />
       <jump line="70" column="0" filename="/Volumes/d/dev/flutter/offtube/ytdl/lib/downloader.dart" />
       <jump line="23" column="51" filename="/Volumes/d/dev/flutter/offtube/ytdl/lib/downloader.dart" />
+      <jump line="44" column="0" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/streams.dart" />
+      <jump line="43" column="0" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/streams.dart" />
+      <jump line="38" column="7" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/streams.dart" />
+      <jump line="20" column="49" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/download_controller.dart" />
     </jumps>
     <registers>
+      <register name="-" type="4">
+        <text encoding="base64">TGlzdDxWaWRlbz4=</text>
+      </register>
+      <register name="/" type="4">
+        <text>videos</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Y2xhc3MgVmlkZW9zT2JzZXJ2YWJsZSB7CiAgc3RhdGljIE9ic2VydmFibGU8TGlzdDxWaWRlbz4+IG9mKEJ1aWxkQ29udGV4dCBjb250ZXh0KSA9PgogICAgICBTdHJlYW1zUHJvdmlkZXIub2YoY29udGV4dCkudmlkZW9zT2JzZXJ2YWJsZTsKfQoKY2xhc3MgVmlkZW9zU3ViamVjdCB7CiAgc3RhdGljIFN1YmplY3Q8TGlzdDxWaWRlbz4+IG9mKEJ1aWxkQ29udGV4dCBjb250ZXh0KSA9PgogICAgICBTdHJlYW1zUHJvdmlkZXIub2YoY29udGV4dCkudmlkZW9zU3ViamVjdDsKfQo=</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZW51bSBEb3dubG9hZFNvdXJjZSB7IFlvdXR1YmUgfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmaW5hbCBkaXJlY3RvcnkgPSAnL3RtcCc7CiAgZmluYWwgZmlsZVBhdGggPSAnJHtkaXJlY3Rvcnl9LyR7ZG93bmxvYWRhYmxlLmlkfS5tcDQnOwo=</text>
+        <text encoding="base64">ICBTdWJqZWN0PFN0cmluZz4gZ2V0IGFkZFZpZGVvU3ViamVjdCA9PiBfYWRkVmlkZW9TdHJlYW07CiAgT2JzZXJ2YWJsZTxTdHJpbmc+IGdldCBhZGRWaWRlb09ic2VydmFibGUgPT4gX2FkZFZpZGVvU3RyZWFtOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludChkb3dubG9hZGFibGUpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX2luaXQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBTdHJpbmcgZ2V0IHN0cmVhbVVybCA9PiBfc3RyZWFtVXJsOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBTdHJpbmcgZ2V0IGlkID0+IF9pZDsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB1dWlkOiBeMi4wLjAK</text>
+        <text encoding="base64">ICAgIF92aWRlbwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmaW5hbCBkaXJlY3RvcnkgPSAnL3RtcCc7CiAgZmluYWwgZmlsZVBhdGggPSAnJHtkaXJlY3Rvcnl9LyR7ZG93bmxvYWRhYmxlLmlkfS5tcDQnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>downloadable.streamUrl</text>
+        <text encoding="base64">JzwsJz5zL3ZpZGVvcy9hZGRWaWRlby9n</text>
       </register>
     </registers>
     <search>
+      <last-search>videos</last-search>
+      <last-pattern>videos</last-pattern>
+      <last-replace>addVideo</last-replace>
+      <last-substitute>videos</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>Videos</entry>
+        <entry>videos</entry>
+      </history-search>
       <history-cmd>
         <entry>NERDTreeToggle</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL1ZpZGVvcy9BZGRWaWRlby9n</entry>
+        <entry encoding="base64">JzwsJz5zL3ZpZGVvcy9hZGRWaWRlby9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -123,6 +169,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
