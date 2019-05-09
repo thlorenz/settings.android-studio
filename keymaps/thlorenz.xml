@@ -62,8 +62,11 @@
   <action id="MethodHierarchy.OverrideMethodAction" />
   <action id="OverrideMethods" />
   <action id="Refresh" />
-  <action id="Replace">
+  <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
