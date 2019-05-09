@@ -93,11 +93,11 @@
         <mark key="]" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/add_video_controller.dart" timestamp="1557378758118">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="49" />
-        <mark key="." line="13" column="49" />
-        <mark key="^" line="13" column="49" />
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/add_video_controller.dart" timestamp="1557378964849">
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="24" column="46" />
+        <mark key="." line="24" column="46" />
+        <mark key="^" line="24" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -122,7 +122,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>ytdl.Vid</text>
+        <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdXBkYXRlVmlkZW9zXD4=</text>
@@ -131,31 +131,31 @@
         <text>ytdl.YoutubeDownloader</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5feW91dHViZURvd25sb2FkZXIgPSB5dGRsLllvdXR1YmVEb3dubG9hZGVyKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmaW5hbCAK</text>
+        <text encoding="base64">ICBmaW5hbCB5dGRsLllvdXR1YmVEb3dubG9hZGVyIF95b3V0dWJlRG93bmxvYWRlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBBZGRWaWRlb0NvbnRyb2xsZXIodGhpcy5fYWRkVmlkZW9SZXF1ZXN0cywgdGhpcy5fdmlkZW9zU3ViamVjdCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBBZGRWaWRlb0NvbnRyb2xsZXIodGhpcy5fYWRkVmlkZW9SZXF1ZXN0cywgdGhpcy5fdmlkZW9zU3ViamVjdCwKICAgICAgdGhpcy5feW91dHViZURvd25sb2FkZXIpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW51bSBEb3dubG9hZFNvdXJjZSB7IFlvdXR1YmUgfQoK</text>
+        <text encoding="base64">ICBmaW5hbCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBTdWJqZWN0PFN0cmluZz4gZ2V0IGFkZFZpZGVvU3ViamVjdCA9PiBfYWRkVmlkZW9TdHJlYW07CiAgT2JzZXJ2YWJsZTxTdHJpbmc+IGdldCBhZGRWaWRlb09ic2VydmFibGUgPT4gX2FkZFZpZGVvU3RyZWFtOwoK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2luaXQoKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
