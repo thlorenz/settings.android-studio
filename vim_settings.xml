@@ -32,12 +32,18 @@
         <mark key="]" line="25" column="1" />
         <mark key="." line="25" column="1" />
       </file>
-      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/data/youtube_video_downloader.dart" timestamp="1557518090433">
-        <mark key="'" line="23" column="32" />
-        <mark key="[" line="21" column="52" />
-        <mark key="]" line="21" column="56" />
-        <mark key="." line="21" column="56" />
-        <mark key="^" line="21" column="56" />
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/data/youtube_video_downloader.dart" timestamp="1557518892699">
+        <mark key="'" line="19" column="29" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+      </file>
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/widgets/video_item.dart" timestamp="1557518933503">
+        <mark key="'" line="64" column="37" />
+        <mark key="[" line="66" column="16" />
+        <mark key="]" line="66" column="24" />
+        <mark key="." line="66" column="24" />
+        <mark key="^" line="66" column="24" />
       </file>
       <file name="/Volumes/d/dev/flutter/offtube/ytdl/lib/downloader.dart" timestamp="1557375556281">
         <mark key="'" line="23" column="51" />
@@ -45,6 +51,12 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
         <mark key="^" line="31" column="100" />
+      </file>
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/types/video.dart" timestamp="1557518861202">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="18" />
       </file>
       <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/video.dart" timestamp="1557375891518">
         <mark key="[" line="22" column="16" />
@@ -61,6 +73,9 @@
         <mark key="[" line="1" column="27" />
         <mark key="]" line="1" column="27" />
         <mark key="." line="1" column="27" />
+      </file>
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/add_video_controller.dart" timestamp="1557518793416">
+        <mark key="'" line="76" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -82,10 +97,13 @@
       <jump line="38" column="27" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/streams.dart" />
       <jump line="70" column="7" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/videos_controller.dart" />
       <jump line="8" column="10" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/download_controller.dart" />
+      <jump line="76" column="47" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/add_video_controller.dart" />
+      <jump line="19" column="29" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/data/youtube_video_downloader.dart" />
+      <jump line="64" column="37" filename="/Volumes/d/dev/flutter/offtube/offtube/lib/widgets/video_item.dart" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>file</text>
+        <text>videoURL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdXBkYXRlVmlkZW9zXD4=</text>
@@ -94,31 +112,31 @@
         <text encoding="base64">ICAgIGZpbmFsIFN0cmluZyBmaWxlUGF0aCA9ICcke3RoaXMudmlkZW9EaXJlY3Rvcnl9LyR7cmVxdWVzdC5pZH0ubXA0JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5feW91dHViZURvd25sb2FkZXIgPSB5dGRsLllvdXR1YmVEb3dubG9hZGVyKCkK</text>
+        <text encoding="base64">ICAgIGZpbmFsIFN0cmluZyBmaWxlUGF0aCA9ICcke3RoaXMudmlkZW9EaXJlY3Rvcnl9L3ZpZGVvLm1wNCc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmaW5hbCB5dGRsLllvdXR1YmVEb3dubG9hZGVyIF95b3V0dWJlRG93bmxvYWRlcjsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5feW91dHViZURvd25sb2FkZXIgPSB5dGRsLllvdXR1YmVEb3dubG9hZGVyKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBBZGRWaWRlb0NvbnRyb2xsZXIodGhpcy5fYWRkVmlkZW9SZXF1ZXN0cywgdGhpcy5fdmlkZW9zU3ViamVjdCkgewo=</text>
+        <text encoding="base64">ICBmaW5hbCB5dGRsLllvdXR1YmVEb3dubG9hZGVyIF95b3V0dWJlRG93bmxvYWRlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBBZGRWaWRlb0NvbnRyb2xsZXIodGhpcy5fYWRkVmlkZW9SZXF1ZXN0cywgdGhpcy5fdmlkZW9zU3ViamVjdCwKICAgICAgdGhpcy5feW91dHViZURvd25sb2FkZXIpOwo=</text>
+        <text encoding="base64">ICBBZGRWaWRlb0NvbnRyb2xsZXIodGhpcy5fYWRkVmlkZW9SZXF1ZXN0cywgdGhpcy5fdmlkZW9zU3ViamVjdCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBZGRWaWRlb0NvbnRyb2xsZXIodGhpcy5fYWRkVmlkZW9SZXF1ZXN0cywgdGhpcy5fdmlkZW9zU3ViamVjdCwKICAgICAgdGhpcy5feW91dHViZURvd25sb2FkZXIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmaW5hbCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBmaW5hbCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
