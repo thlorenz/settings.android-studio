@@ -32,11 +32,12 @@
         <mark key="]" line="25" column="1" />
         <mark key="." line="25" column="1" />
       </file>
-      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/data/youtube_video_downloader.dart" timestamp="1557378741966">
-        <mark key="'" line="22" column="32" />
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="22" column="46" />
-        <mark key="." line="22" column="0" />
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/data/youtube_video_downloader.dart" timestamp="1557518090433">
+        <mark key="'" line="23" column="32" />
+        <mark key="[" line="21" column="52" />
+        <mark key="]" line="21" column="56" />
+        <mark key="." line="21" column="56" />
+        <mark key="^" line="21" column="56" />
       </file>
       <file name="/Volumes/d/dev/flutter/offtube/ytdl/lib/downloader.dart" timestamp="1557375556281">
         <mark key="'" line="23" column="51" />
@@ -84,13 +85,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">YXN5bmMg</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdXBkYXRlVmlkZW9zXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>ytdl.YoutubeDownloader</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZpbmFsIFN0cmluZyBmaWxlUGF0aCA9ICcke3RoaXMudmlkZW9EaXJlY3Rvcnl9LyR7cmVxdWVzdC5pZH0ubXA0JzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5feW91dHViZURvd25sb2FkZXIgPSB5dGRsLllvdXR1YmVEb3dubG9hZGVyKCkK</text>
