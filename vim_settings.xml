@@ -8,23 +8,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/streams_provider.dart" timestamp="1557377318546">
-        <mark key="[" line="39" column="36" />
-        <mark key="]" line="40" column="27" />
-        <mark key="." line="40" column="27" />
-        <mark key="^" line="40" column="27" />
-      </file>
       <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/enums/download_source.dart" timestamp="1557377903517">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/streams.dart" timestamp="1557378170806">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="37" column="27" />
-        <mark key="]" line="37" column="27" />
-        <mark key="." line="37" column="27" />
-        <mark key="^" line="42" column="22" />
       </file>
       <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/add_controller.dart" timestamp="1557378364558">
         <mark key="[" line="0" column="0" />
@@ -34,10 +21,10 @@
       </file>
       <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/download_controller.dart" timestamp="1557378693092">
         <mark key="'" line="8" column="10" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="52" />
-        <mark key="." line="4" column="49" />
-        <mark key="^" line="4" column="49" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="52" />
+        <mark key="." line="1" column="49" />
+        <mark key="^" line="1" column="49" />
       </file>
       <file name="/Volumes/d/dev/flutter/sdk/.pub-cache/hosted/pub.dartlang.org/youtube_extractor-1.0.2/lib/src/models/media_streams/muxed_stream_info.dart" timestamp="1557374851434">
         <mark key="'" line="11" column="13" />
@@ -45,23 +32,11 @@
         <mark key="]" line="25" column="1" />
         <mark key="." line="25" column="1" />
       </file>
-      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/data/video_downloader.dart" timestamp="1557378164726">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="3" column="0" />
-      </file>
       <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/data/youtube_video_downloader.dart" timestamp="1557378741966">
-        <mark key="'" line="20" column="32" />
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="46" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/widgets/video_item.dart" timestamp="1557378188989">
-        <mark key="'" line="67" column="10" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="52" />
-        <mark key="." line="5" column="0" />
+        <mark key="'" line="22" column="32" />
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="46" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/Volumes/d/dev/flutter/offtube/ytdl/lib/downloader.dart" timestamp="1557375556281">
         <mark key="'" line="23" column="51" />
@@ -69,13 +44,6 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
         <mark key="^" line="31" column="100" />
-      </file>
-      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/videos_controller.dart" timestamp="1557378314347">
-        <mark key="'" line="70" column="7" />
-        <mark key="[" line="70" column="42" />
-        <mark key="]" line="71" column="50" />
-        <mark key="." line="71" column="50" />
-        <mark key="^" line="71" column="50" />
       </file>
       <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/video.dart" timestamp="1557375891518">
         <mark key="[" line="22" column="16" />
@@ -92,12 +60,6 @@
         <mark key="[" line="1" column="27" />
         <mark key="]" line="1" column="27" />
         <mark key="." line="1" column="27" />
-      </file>
-      <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/controllers/add_video_controller.dart" timestamp="1557378964849">
-        <mark key="[" line="24" column="47" />
-        <mark key="]" line="24" column="46" />
-        <mark key="." line="24" column="46" />
-        <mark key="^" line="24" column="46" />
       </file>
     </filemarks>
     <jumps>
