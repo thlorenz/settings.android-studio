@@ -8,6 +8,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/Volumes/d/dev/flutter/appbrewery/i_am_poor/lib/main.dart" timestamp="1557591650791">
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+      </file>
       <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/enums/download_source.dart" timestamp="1557377903517">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
@@ -103,7 +109,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>videoURL</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdXBkYXRlVmlkZW9zXD4=</text>
