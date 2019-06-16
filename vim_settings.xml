@@ -63,11 +63,11 @@
         <mark key="]" line="20" column="4" />
         <mark key="." line="20" column="4" />
       </file>
-      <file name="/Volumes/d/dev/flutter/offtube/offtube/android/build.gradle" timestamp="1560698880376">
+      <file name="/Volumes/d/dev/flutter/offtube/offtube/android/build.gradle" timestamp="1560699003501">
         <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="55" />
-        <mark key="." line="7" column="55" />
-        <mark key="^" line="7" column="55" />
+        <mark key="]" line="7" column="54" />
+        <mark key="." line="7" column="54" />
+        <mark key="^" line="7" column="54" />
       </file>
       <file name="/Volumes/d/dev/flutter/offtube/offtube/lib/widgets/video_item.dart" timestamp="1557518933503">
         <mark key="'" line="64" column="37" />
@@ -143,7 +143,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdXBkYXRlVmlkZW9zXD4=</text>
